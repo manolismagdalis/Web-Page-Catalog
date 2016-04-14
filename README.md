@@ -1,9 +1,9 @@
 # Web-Page-Catalog
 
 
-    @author: Emmanouil Magdalis
+# author: Emmanouil Magdalis
 
-    @version: 1.0.0
+# version: 1.0.0
 
     The following program reads web page links from an input txt and builds a catalog
     with the following features:
